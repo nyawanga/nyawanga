@@ -7,9 +7,9 @@
 ### Databases
 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/amazon-redshift.jpg"/>
+<img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/aws-athena.png"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/google_bigquery.png"/>
 <!-- <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/> -->
-<!-- <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/> -->
 
 ### Deployment
 
