@@ -1,21 +1,19 @@
 ### Hi there 👋
 
-### Languages
+### Programming Languages
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
 ### Databases
 
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
 <!-- <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/> -->
 <!-- <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/> -->
 
 ### Deployment
 
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/>
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/>
+<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/>
 
 ### Github Stats
 
