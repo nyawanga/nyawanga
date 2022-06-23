@@ -8,7 +8,7 @@
 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/athena.svg"/>
-<img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/redshift.svg"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/bigquery.svg"/>
+<img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/redshift.svg"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/bigquery.svg"/><img height=50 src="https://www.nextpathway.com/hubfs/Google%20BigQuery%20Logo_Transparent%20200x70.png"/>
 <!-- <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/>
 
 ### Deployment
