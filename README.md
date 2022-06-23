@@ -20,8 +20,8 @@ Data Engineer with 5 years in Business Intelligence space. Specialization in Eco
 
 <code><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/></code>
 <code><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/></code>
-<code><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/orchestration/AirflowLogo.png"/></code>
-<code><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/deployment/github.svg"/></code>
+<code><img height=50 alt="airflow" src="https://github.com/nyawanga/petty_backups/blob/master/icons/orchestration/AirflowLogo.png"/></code>
+<code><img height=50 alt= "github actions" src="https://github.com/nyawanga/petty_backups/blob/master/icons/deployment/github.svg"/></code>
 
 #### Cloud
 
