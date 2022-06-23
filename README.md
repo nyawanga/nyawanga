@@ -8,17 +8,17 @@ Data Engineer with 5 years in Business Intelligence space. Specialization in Eco
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-### Databases
+#### Databases
 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg"/>
 <img height=50 alt="AWS Athena" src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/aws-athena-removebg-preview.png"/>
 <img height=50 alt="AWS Redshift" src="https://github.com/nyawanga/petty_backups/blob/master/icons/database/amazon-redshift-jpg.jpg"/><img height=50 src="https://www.nextpathway.com/hubfs/Google%20BigQuery%20Logo_Transparent%20200x70.png"/>
 
-### Deployment & Orchestration
+#### Deployment & Orchestration
 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/>
 
-### Github Stats
+#### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=nyawanga&show_icons=true"/>
