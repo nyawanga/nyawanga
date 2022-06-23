@@ -1,9 +1,8 @@
-<details>
-    <b> About Me</b>
-    <p>
-    Data Engineer with 5 years in Business Intelligence space. Specialization in Econometrics and related qualification in Networking, Data Warehousing and Data Analysis.
-    </p>
-</details>
+
+<b> About Me</b>
+<p>
+Data Engineer with 5 years in Business Intelligence space. Specialization in Econometrics and related qualification in Networking, Data Warehousing and Data Analysis.
+</p>
 
 ### Programming Languages
 
