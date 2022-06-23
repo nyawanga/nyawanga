@@ -16,7 +16,10 @@ Data Engineer with 5 years in Business Intelligence space. Specialization in Eco
 
 #### Deployment & Orchestration
 
-<img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/orchestration/AirflowLogo.png"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/deployment/github.svg"/>
+<code><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/></code>
+<code><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/></code>
+<code><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/orchestration/AirflowLogo.png"/></code>
+<code><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/deployment/github.svg"/></code>
 
 #### Work Experience
 
