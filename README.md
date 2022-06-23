@@ -16,7 +16,8 @@
 
 ### Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact"/><img src="https://github-readme-stats.vercel.app/api?username=nyawanga&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyawanga&show_icons=true"/>
 <!--
 **nyawanga/nyawanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
