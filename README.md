@@ -18,6 +18,22 @@ Data Engineer with 5 years in Business Intelligence space. Specialization in Eco
 
 <img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original-wordmark.svg"/><img height=50 src="https://github.com/devicons/devicon/blob/v2.15.1/icons/terraform/terraform-original-wordmark.svg"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/orchestration/AirflowLogo.png"/><img height=50 src="https://github.com/nyawanga/petty_backups/blob/master/icons/deployment/github.svg"/>
 
+#### Work Experience
+
+<article>
+<p>
+<strong>Data Engineer Ringier South Africa (Aug 2021 - to date)</strong>
+
+</p>
+<p>
+<strong>Business Intelligence Developer ROAM Afica (Oct 2017 - July 2021)</strong>
+</p>
+<p>
+<strong>Business Intelligence Analyst PigiaMe Classifieds (Feb 2016 - Sep 2017)</strong>
+
+</p>
+</article>
+
 #### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact"/>
