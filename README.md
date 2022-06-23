@@ -10,8 +10,8 @@
 ![Postgres](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png)
 ![]
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nyawanga&layout=compact&them=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nyawanga&show_icons=true&theme=dark"/>
 <!--
 **nyawanga/nyawanga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
