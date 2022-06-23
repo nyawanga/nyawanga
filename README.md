@@ -26,7 +26,7 @@ Data Engineer with 5 years in Business Intelligence space. Specialization in Eco
 #### Cloud
 
 <code><img height=50 alt="aws" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/aws.png"/></code>
-<code><img height=50 alt="aws" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/gcloud.png"/></code>
+<code><img height=50 alt="gcloud" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/gcloud.png"/></code>
 
 #### Work Experience
 
