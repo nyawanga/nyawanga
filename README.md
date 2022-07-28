@@ -1,7 +1,7 @@
 
 <b> About Me</b>
 <p>
-Data Engineer with 5 years in Business Intelligence space. Specialization in Econometrics and related qualification in Networking, Data Warehousing and Data Analysis.
+Data Specialist with 6+ years working with data and technology to help companies make data driven decision. An Econometrics graduate with a strong background working with databases and Python for scripting. AWS is my preferred cloud provider with some experience with GCP (Firebase and BigQuery). Always looking out for new technology to learn and use in making data more useful to the world.
 </p>
 
 #### Programming Languages
