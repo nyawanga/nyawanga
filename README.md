@@ -27,6 +27,7 @@ Data Specialist with 7+ years working with data and technology to help companies
 
 <code><img height=50 alt="aws" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/aws.png"/></code>
 <code><img height=50 alt="gcloud" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/gcloud.png"/></code>
+<code><img height=50 alt="azure" src="https://github.com/nyawanga/petty_backups/blob/master/icons/cloud/azure.png"/></code>
 
 #### Work Experience
 
